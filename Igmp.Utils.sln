@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Igmp.Monitor", "Igmp.Monitor\Igmp.Monitor.csproj", "{806875F7-7A31-49A8-B860-4772610689A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeHand.Net.Packets", "FreeHand.Net.Packets\FreeHand.Net.Packets.csproj", "{A4F38D3F-353F-4831-8941-5B047EB5D644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{806875F7-7A31-49A8-B860-4772610689A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806875F7-7A31-49A8-B860-4772610689A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806875F7-7A31-49A8-B860-4772610689A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806875F7-7A31-49A8-B860-4772610689A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4F38D3F-353F-4831-8941-5B047EB5D644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F38D3F-353F-4831-8941-5B047EB5D644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F38D3F-353F-4831-8941-5B047EB5D644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F38D3F-353F-4831-8941-5B047EB5D644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9758A2BC-5541-4BC8-A650-9C6482742B74}
+	EndGlobalSection
+EndGlobal
